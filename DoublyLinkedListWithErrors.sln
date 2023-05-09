@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedListWithErrors", "DoublyLinkedListWithErrors\DoublyLinkedListWithErrors.csproj", "{8A96D9B2-C0A0-48B2-A32D-8498ACDC1A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDLL", "TestDLL\TestDLL.csproj", "{60B0D829-292D-4CEA-9CBF-6CB39E8EC16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A96D9B2-C0A0-48B2-A32D-8498ACDC1A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A96D9B2-C0A0-48B2-A32D-8498ACDC1A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A96D9B2-C0A0-48B2-A32D-8498ACDC1A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A96D9B2-C0A0-48B2-A32D-8498ACDC1A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B0D829-292D-4CEA-9CBF-6CB39E8EC16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B0D829-292D-4CEA-9CBF-6CB39E8EC16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B0D829-292D-4CEA-9CBF-6CB39E8EC16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B0D829-292D-4CEA-9CBF-6CB39E8EC16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828CF4A8-2725-4785-85A7-E1F05622AE11}
+	EndGlobalSection
+EndGlobal
